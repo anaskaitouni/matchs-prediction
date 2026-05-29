@@ -8,7 +8,7 @@ This notebook implements a custom logistic regression classifier (no scikit-lear
 
 ## Dataset
 
-**File:** `TIPE2/matches.csv`
+**File:** `matches.csv`
 
 Expected columns include:
 
@@ -48,7 +48,7 @@ venue_code, opp_code, hour, day_code
 
 ## Usage
 
-1. Place `matches.csv` in a `TIPE2/` directory relative to the notebook.
+1. Place `matches.csv` in a directory relative to the notebook.
 2. Run all cells in order.
 3. The final cell outputs a DataFrame of actual vs. predicted results merged with match metadata.
 
